@@ -35,6 +35,6 @@ Adalah jarak antar elemen.
 terdapat beberapa keuntungan dengan membuat aturan ataupun guideline untuk margin:</br>
 <ul>
 <li>Konsistensi</li>
-<li>Mempercepat proses design, karena seorang designer tidak perlu lagi mempertimbangkan akan menggunakan margin 16px, 15px ataupun 17px/li>
+<li>Mempercepat proses design, karena seorang designer tidak perlu lagi mempertimbangkan akan menggunakan margin 16px, 15px ataupun 17px</li>
 <li>Mempercepat proses development, karena seorang developer tidak perlu mencari tahu jarak margin yang digunakan oleh sang designer. Jika aturan penggunaan margin telah di definisikan, maka seorang developer cukup dengan melihat design dan bisa langung menentukan akan menggunakan margin yang mana.</li>
 
